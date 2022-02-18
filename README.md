@@ -1,4 +1,4 @@
-### Olá,Eu sou Victor Angelo estudante da BandTec
+### Olá,Eu sou Victor Angelo estudante da SPTech
 
 
 - 🔭 Hoje estou aprendendo java
