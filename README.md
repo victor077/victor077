@@ -19,7 +19,7 @@
   <img align="center" alt="Victor-CSS" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/arduino/arduino-original.svg" />
     <img align="center" alt="Victor-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg" />
     <img align="center" alt="Victor-CSS" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg" />
-    <img align="right" alt = "Fair tail" height="30" width="40" src="https://tenor.com/view/fairy-tail-lucy-heartfilia-natsu-happy-i-got-you-gif-20451558" />
+    <img align="right" alt = "Fair tail" height="30" width="40" src="https://upload.wikimedia.org/wikipedia/commons/2/2a/Fairy_Tail_symbol.png" />
 </div>
   
   ##
