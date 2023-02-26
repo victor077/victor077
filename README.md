@@ -1,7 +1,7 @@
 ### Olá,Eu sou Victor Angelo estudante da SPTech
 
 
-- 🔭 Hoje estou desenvolvendo aplicações em React 
+- 🔭 Hoje estou desenvolvendo aplicações em React e .Net 
 - 🌱 Cursando faculdade de ADS
 - 😄 Gosto de trabalhar na área de frond-end e back-end
 
