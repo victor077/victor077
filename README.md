@@ -1,7 +1,7 @@
-### Olá,Eu sou Victor Angelo estudante da SPTech
+### Olá,Eu sou Victor Angelo desenvolvedor web
 
 
-- 🔭 Hoje estou desenvolvendo aplicações em React e .Net 
+- 🔭 Hoje estou desenvolvendo aplicações em Nextjs, Astro, Nextsjs e Php 
 - 🌱 Cursando faculdade de ADS
 - 😄 Gosto de trabalhar na área de frond-end e back-end
 
