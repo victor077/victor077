@@ -1,8 +1,8 @@
 ### Olá,Eu sou Victor Angelo desenvolvedor web
 
 
-- 🔭 Hoje estou desenvolvendo aplicações em Nextjs, Astro, Nestjs e Php 
-- 🌱 Cursando faculdade de ADS
+- 🔭 Atualmente sou desenvolvedor full stack
+- 🌱 Cursando MBA em engenharia de software
 - 😄 Gosto de trabalhar na área de frond-end e back-end
 
 ## Oiii eu sou o Victor Angelo, desenvolvedor e futuro criador de conteúdo de programação e tecnologia!
