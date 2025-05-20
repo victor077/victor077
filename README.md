@@ -1,11 +1,5 @@
-### Olá,Eu sou Victor Angelo desenvolvedor web
+### Olá,Eu sou Victor Angelo desenvolvedor de software
 
-
-- 🔭 Atualmente sou desenvolvedor full stack
-- 🌱 Cursando MBA em engenharia de software
-- 😄 Gosto de trabalhar na área de frond-end e back-end
-
-## Oiii eu sou o Victor Angelo, desenvolvedor e futuro criador de conteúdo de programação e tecnologia!
 <div align="center">
   <a href="https://github.com/victor077">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=victor077&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
